@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  height: 100%;
+}
+/* Subtle global polish */
+
+::selection {
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Improve heading rhythm */
+h1,
+h2,
+h3 {
+  letter-spacing: -0.01em;
+}
+.fade-in {
+  animation: fadeIn 0.4s ease-out both;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+/* Typography refinement for long-form content */
+.prose-content {
+  max-width: 65ch;
+}
+
+.prose-content p {
+  line-height: 1.75;
+}
+
+.prose-content li {
+  line-height: 1.6;
+}
+/* Mobile spacing polish */
+@media (max-width: 640px) {
+  section {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+}
