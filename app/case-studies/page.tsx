@@ -1,7 +1,7 @@
 export default function CaseStudiesPage() {
   return (
-    <div className="min-h-screen bg-neutral-950 text-white fade-in">
-      <header className="max-w-6xl mx-auto px-10 pt-24 pb-16">
+    <div className="min-h-screen bg-transparent text-white fade-in">
+      <header className="max-w-6xl mx-auto px-10 pt-16 pb-6">
         <h1 className="text-4xl font-bold tracking-tight">
           Case Studies
         </h1>
@@ -13,16 +13,16 @@ export default function CaseStudiesPage() {
       </header>
 
       {/* Case Study 1 */}
-      <section className="max-w-6xl mx-auto px-10 py-16">
-        <div className="bg-neutral-900 border border-neutral-800 rounded-lg p-8">
+      <section className="max-w-6xl mx-auto px-10 py-6">
+        <div className="bg-zinc-700 border border-neutral-800 rounded-lg p-8">
           <h2 className="text-2xl font-semibold mb-2">
             Intermittent Payment Failures During Dinner Rush
           </h2>
-          <p className="text-sm text-neutral-400 mb-6">
+          <p className="text-sm text-neutral-100 mb-6">
             L1 Technical Support · Live Production Incident · High Business Impact
           </p>
 
-          <div className="space-y-4 text-neutral-300 max-w-4xl">
+          <div className="space-y-4 text-neutral-100 max-w-4xl">
             <p>
               <strong>Situation:</strong> A restaurant reported intermittent
               card payment failures across multiple terminals during peak hours,
@@ -48,16 +48,16 @@ export default function CaseStudiesPage() {
       </section>
 
       {/* Case Study 2 */}
-      <section className="max-w-6xl mx-auto px-10 py-16">
-        <div className="bg-neutral-900 border border-neutral-800 rounded-lg p-8">
+      <section className="max-w-6xl mx-auto px-10 py-6">
+        <div className="bg-zinc-700 border border-neutral-800 rounded-lg p-8">
           <h2 className="text-2xl font-semibold mb-2">
             Printer and Terminal Outages After Network Hardware Change
           </h2>
-          <p className="text-sm text-neutral-400 mb-6">
+          <p className="text-sm text-neutral-100 mb-6">
             Product Support Context · Hardware and Network Troubleshooting
           </p>
 
-          <div className="space-y-4 text-neutral-300 max-w-4xl">
+          <div className="space-y-4 text-neutral-100 max-w-4xl">
             <p>
               <strong>Situation:</strong> A merchant replaced network equipment
               and immediately lost printer and terminal connectivity across the
@@ -82,16 +82,16 @@ export default function CaseStudiesPage() {
       </section>
 
       {/* Case Study 3 */}
-      <section className="max-w-6xl mx-auto px-10 py-16">
-        <div className="bg-neutral-900 border border-neutral-800 rounded-lg p-8">
+      <section className="max-w-6xl mx-auto px-10 py-6">
+        <div className="bg-zinc-700 border border-neutral-800 rounded-lg p-8">
           <h2 className="text-2xl font-semibold mb-2">
             Reducing Escalation Delays Caused by Inconsistent Case Notes
           </h2>
-          <p className="text-sm text-neutral-400 mb-6">
+          <p className="text-sm text-neutral-100 mb-6">
             Support Operations · Process Improvement
           </p>
 
-          <div className="space-y-4 text-neutral-300 max-w-4xl">
+          <div className="space-y-4 text-neutral-100 max-w-4xl">
             <p>
               <strong>Situation:</strong> L2 and Payments teams frequently needed
               clarification due to inconsistent intake notes, slowing
@@ -114,9 +114,6 @@ export default function CaseStudiesPage() {
         </div>
       </section>
 
-      <footer className="border-t border-neutral-800 py-10 text-center text-sm text-neutral-500">
-        © 2026 Nicholas Allen
-      </footer>
     </div>
   );
 }

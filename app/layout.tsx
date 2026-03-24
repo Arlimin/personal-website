@@ -1,6 +1,14 @@
+import { Inter } from 'next/font/google';
 import type { Metadata } from 'next';
 import './globals.css';
+
 import Header from './components/Header';
+import Footer from './components/footer';
+
+const inter = Inter({
+  subsets: ['latin'],
+  weight: ['400', '500', '600', '700'],
+});
 
 export const metadata: Metadata = {
   title: 'Nicholas Allen – Technical Support Portfolio',
@@ -15,9 +23,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className="min-h-screen bg-neutral-950 text-white">
+      <body className={`${inter.className} min-h-screen text-neutral-200`}>
         <Header />
         {children}
+        <Footer />
       </body>
     </html>
   );

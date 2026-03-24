@@ -9,12 +9,12 @@ export default function Header() {
   const linkClass = (href: string) =>
     `px-3 py-2 rounded transition ${
       pathname === href
-        ? 'bg-neutral-800 text-white'
-        : 'text-neutral-300 hover:bg-neutral-800 hover:text-white'
+        ? 'bg-emerald-800 text-white'
+        : 'text-neutral-300 hover:bg-emerald-800 hover:text-white'
     }`;
 
   return (
-    <header className="sticky top-0 z-50 border-b border-neutral-800 bg-neutral-950/90 backdrop-blur">
+    <header className="sticky top-0 z-50 border-b border-neutral-400 backdrop-blur">
       <nav className="max-w-6xl mx-auto px-6 py-4 flex flex-wrap items-center gap-2">
         <Link href="/" className={linkClass('/')}>
           Overview
@@ -37,7 +37,7 @@ export default function Header() {
           href="/resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
-          className="px-3 py-2 rounded text-sm text-neutral-300 hover:bg-neutral-800 hover:text-white transition"
+          className="px-3 py-2 rounded text-sm text-neutral-300 hover:bg-emerald-800 hover:text-white transition"
         >
           Resume (PDF)
         </a>
