@@ -35,7 +35,7 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-, "app/customer-solutions/page.tsx"  ],
+, "app/personal-site/customer-solutions/page.tsx", "app/page.tsx.bak"  ],
   "exclude": [
     "node_modules"
   ]
