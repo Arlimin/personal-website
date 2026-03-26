@@ -1,6 +1,6 @@
 // trigger vercel deploy
-import Header from '../Website/components/Header';
-import Footer from '../Website/components/footer';
+import Header from './Website/components/Header';
+import Footer from './Website/components/footer';
 
 export default function SiteLayout({
   children,
