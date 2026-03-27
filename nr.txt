@@ -1,0 +1,71 @@
+NICHOLAS ALLEN
+Sarasota, FL 34234
+Mobile: 941-249-2577 | Alternate: 941-467-6841
+Email: nickallen4492@gmail.com
+LinkedIn: linkedin.com/in/nicholas-allen-75465124b
+SUMMARY
+Technical Support Specialist with experience troubleshooting software, hardware,
+identity-related access issues, and networked systems in high-volume support environments.
+Strong foundation in Windows OS (desktop/server concepts), network layers, Active Directory
+principles, security fundamentals, and cross-team communication. CompTIA-certified
+(Security+, Network+, A+). Known for clear customer communication, accurate documentation,
+and effective collaboration with technical teams. Experienced supporting users through phone,
+email, and chat with a focus on customer care and root-cause analysis.
+CORE TECHNICAL SKILLS
+Windows OS (admin & troubleshooting) • Windows Account Concepts • Networking (TCP/IP,
+DNS, DHCP, Layers 1–4) • Basic Active Directory Concepts • VOIP • Virtualization (VMware) •
+Identity & Access Basics (Security+) • Firewall/AV concepts • Secure communications
+fundamentals • Ticketing Systems (Salesforce) • POS Systems • Cloud Concepts • Command
+Line • Documentation & Escalation • Troubleshooting
+RELEVANT EXPERIENCE
+L1 Technical Support Specialist
+Mad Mobile | Tampa, FL | Jan 2025 – Present
+• Provide phone, email, and chat troubleshooting for a production POS and payments ecosystem
+supporting thousands of active devices.
+• Diagnose and resolve technical issues involving Windows-based endpoints, printers, CAKE
+routers, network connectivity, and system access issues.
+• Serve as a communication liaison between customers and internal L2, Payments, and
+Engineering teams; escalate issues with complete reproducibility and technical notes.
+• Document all support interactions in Salesforce, ensuring accurate classification and detailed
+customer-facing updates.
+• Partner with senior engineers on complex incidents and contribute to process improvements.
+• Created internal automation tools to increase support efficiency, including
+transcript-to-case-note generators and standardized communication assistants.
+Achievement: Employee of the Month, November 2025.
+Demonstrated strengths: customer care, communication, cross-team coordination, Windows
+troubleshooting, documentation.
+Information Technology Solutions Specialist
+Cook Technology Corp. | FL | May 2024 – Sep 2024
+• Troubleshot and resolved hardware, software, network, and VOIP issues for commercial
+customers.
+• Installed Cradlepoint LTE failover systems, switches, Grandstream VOIP devices, and
+performed system configuration and validation.
+• Diagnosed connectivity failures, DNS-related symptoms, endpoint access issues, and
+workstation offline states.
+• Conducted site surveys and validated failover and network visibility across multiple
+environments.
+• Maintained accurate records of all troubleshooting steps, system changes, and client
+communication.
+Demonstrated strengths: field diagnostics, network layers, AV/firewall-adjacent troubleshooting,
+customer interaction.
+EDUCATION
+California Institute of Applied Technology (CIAT)
+Certificate in Computer Information Systems – Networking | 2022–2023
+GPA: 3.9, Academic Honor Roll
+CERTIFICATIONS
+CompTIA Security+, Network+, A+, and ITF+ demonstrating validated skills in cybersecurity
+fundamentals, network topology, Windows OS, troubleshooting methodologies, and secure
+system practices.
+KEY PROJECTS
+Enterprise-Style Troubleshooting & Documentation Automation
+Built automation tools using Copilot Studio and Power Automate to generate structured case
+notes from communication transcripts, improving quality and consistency across tickets.
+Network & Access Troubleshooting
+Diagnosed connectivity failures, routing issues, workstation access problems, and endpoint
+communication issues across POS and commercial networks.
+Security+ Labs & Identity-Centric Coursework
+Hands-on exposure to ACLs, authentication methods, Nmap scanning, risk management, and
+secure access concepts relevant to identity-security environments like BeyondTrust.
+ADDITIONAL SKILLS
+Customer communication • Team collaboration • Prioritization • Analytical reasoning •
+Escalation processes • Preventive troubleshooting • User guidance
