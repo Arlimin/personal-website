@@ -34,7 +34,7 @@ export default function Header() {
         <span className="flex-1" />
 
         <a
-          href="/resume.pdf"
+          href="/generalresume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="px-3 py-2 rounded text-sm text-neutral-300 hover:bg-emerald-800 hover:text-white transition"
