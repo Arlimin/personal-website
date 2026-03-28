@@ -121,7 +121,7 @@ export default function TechnicalSupportPage() {
 
     <div className="flex flex-wrap gap-4">
       <a
-        href="/technicalsupport.pdf"
+        href="/techsupport.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-flex items-center justify-center px-6 py-3 rounded-md bg-white text-neutral-900 font-medium hover:bg-emerald-700 transition"
