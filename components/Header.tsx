@@ -7,7 +7,7 @@ export default function Header() {
   const pathname = usePathname();
 
   const linkClass = (href: string) =>
-    `px-3 py-2 rounded transition ${
+    `px-2 py-1 rounded transition ${
       pathname === href
         ? 'bg-emerald-800 text-white'
         : 'text-neutral-300 hover:bg-emerald-800 hover:text-white'
@@ -31,6 +31,14 @@ export default function Header() {
         <Link href="/case-studies" className={linkClass('/case-studies')}>
   Real Support Incidents
 </Link>
+<Link href="/projects" className={linkClass('/projects')}>
+  Projects
+</Link>
+
+<Link href="/qualifications" className={linkClass('/qualifications')}>
+          Certifications & Skills
+        </Link>
+
         <span className="flex-1" />
 
         <a

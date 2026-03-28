@@ -11,6 +11,8 @@ const navLinks = [
   { href: '/product-support', label: 'Product Support' },
   { href: '/technical-support', label: 'Technical Support' },
   { href: '/case-studies', label: 'Real Support Incidents' },
+  { href: '/projects', label: 'Projects' },
+  { href: '/qualifications', label: 'Certifications, Skills & Training' },
 ];
 
 export default function Footer() {
