@@ -157,7 +157,7 @@ Engineering and Product teams, my experience aligns well with these demands.
 
     <div className="flex flex-wrap gap-4">
       <a
-        href="/resume.pdf"
+        href="/productsupport.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-flex items-center px-6 py-3 rounded-md bg-white text-neutral-800 font-medium hover:bg-emerald-700 transition"

@@ -21,7 +21,7 @@ export default function PersonalWebsite() {
 
           <div className="mt-8 flex flex-wrap items-center gap-4">
             <a
-              href="/resume.pdf"
+              href="/generalresume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center px-6 py-3 rounded-md bg-white text-neutral-900 font-medium hover:bg-emerald-700 transition"
