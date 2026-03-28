@@ -3,7 +3,7 @@ export default function CaseStudiesPage() {
     <div className="min-h-screen bg-transparent text-white fade-in">
       <header className="max-w-6xl mx-auto px-10 pt-16 pb-6">
         <h1 className="text-4xl font-bold tracking-tight">
-          Case Studies
+          Real Support Incidents
         </h1>
         <p className="mt-4 text-lg text-neutral-300 max-w-3xl">
           Real-world support scenarios demonstrating structured troubleshooting,

@@ -33,7 +33,7 @@ export default function PersonalWebsite() {
               href="/case-studies"
               className="inline-flex items-center justify-center px-6 py-3 rounded-md bg-white text-neutral-900 font-medium hover:bg-emerald-700 transition"
             >
-              View Case Studies
+              Real Support Incidents
             </a>
           </div>
 

@@ -119,7 +119,7 @@ customer-first problem solving.
         href="/case-studies"
         className="inline-flex items-center px-6 py-3 rounded-md bg-white text-neutral-800 font-medium hover:bg-emerald-700 transition"
       >
-        View Relevant Case Studies
+        Real Support Incidents
       </a>
     </div>
   </div>

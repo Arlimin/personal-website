@@ -10,7 +10,7 @@ const navLinks = [
   { href: '/customer-solutions', label: 'Customer Solutions' },
   { href: '/product-support', label: 'Product Support' },
   { href: '/technical-support', label: 'Technical Support' },
-  { href: '/case-studies', label: 'Case Studies' },
+  { href: '/case-studies', label: 'Real Support Incidents' },
 ];
 
 export default function Footer() {

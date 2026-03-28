@@ -29,7 +29,7 @@ export default function Header() {
           Customer Solutions
         </Link>
         <Link href="/case-studies" className={linkClass('/case-studies')}>
-  Case Studies
+  Real Support Incidents
 </Link>
         <span className="flex-1" />
 
