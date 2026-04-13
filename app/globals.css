@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base document setup */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  background: url("/bg.jpg") no-repeat center center fixed;
+  background-size: cover;
+  scroll-behavior: smooth;
+}
+
+/* Selection styling (FIXED) */
+::selection {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Improve heading rhythm */
+h1,
+h2,
+h3 {
+  letter-spacing: -0.01em;
+}
+
+/* Fade-in utility */
+.fade-in {
+  animation: fadeIn 0.4s ease-out both;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Typography refinement for long-form content */
+.prose-content {
+  max-width: 65ch;
+}
+
+.prose-content p {
+  line-height: 1.75;
+}
+
+.prose-content li {
+  line-height: 1.6;
+}
+
+/* Mobile spacing polish */
+@media (max-width: 640px) {
+  section {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+}
